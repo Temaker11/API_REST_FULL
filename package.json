@@ -1,0 +1,27 @@
+{
+  "name": "apirestfulcomnode.jsemongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .index.js localhost 3000"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temaker11/API_REST_FULL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temaker11/API_REST_FULL/issues"
+  },
+  "homepage": "https://github.com/Temaker11/API_REST_FULL#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
